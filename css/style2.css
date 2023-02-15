@@ -1,0 +1,13 @@
+nav{
+    display: flex;
+    background-color: wheat;
+    justify-content: flex-end;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    display: inline;
+}
